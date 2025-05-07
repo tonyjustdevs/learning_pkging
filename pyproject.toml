@@ -4,7 +4,7 @@ requires = ["hatchling"]
 build-backend = "hatchling.build"
 [project]
 name = "example_package_tonyjustdevs"
-version = "0.0.2"
+version = "0.0.3"
 authors = [
   { name="Tony JustDevs", email="tonyjustdevs@gmail.com" },
 ]
@@ -18,5 +18,5 @@ classifiers = [
 license = "MIT"
 license-files = ["LICEN[CS]E*"]
 [project.urls]
-Homepage = "https://github.com/pypa/sampleproject_tonyjustdevs"
-Issues = "https://github.com/pypa/sampleproject_tonyjustdevs/issues"
+Homepage = "https://github.com/tonyjustdevs/learning_pkging"
+Issues = "https://github.com/tonyjustdevs/learning_pkging/issues"
