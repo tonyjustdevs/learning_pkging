@@ -9,3 +9,6 @@ def add_3(number):
 
 def add_4(number):
     return number+4
+
+def add_5(number):
+    return number+5
