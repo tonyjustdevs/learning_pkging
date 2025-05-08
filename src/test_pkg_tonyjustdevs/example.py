@@ -21,3 +21,6 @@ def add_7(number):
 
 def add_8(number):
     return number+8
+
+def add_9(number):
+    return number+9
