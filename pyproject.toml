@@ -5,7 +5,7 @@ build-backend = "hatchling.build"
 [project]
 name = "test_pkg_tonyjustdevs"
 # dependencies = ["numpy>=1.0"]  # Runtime deps (installed with your package)
-version = "0.0.5"
+version = "0.0.8"
 authors = [
   { name="Tony JustDevs", email="tonyjustdevs@gmail.com" },
 ]
