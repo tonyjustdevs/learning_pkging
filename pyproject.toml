@@ -19,7 +19,7 @@ classifiers = [
 license = "MIT"
 license-files = ["LICEN[CS]E*"]
 [project.optional-dependencies]
-dev = ["build", "twine"]  # Dev-only tools
+dev = ["build", "twine"]  # fix toml v0.0.6
 [project.urls]
 Homepage = "https://github.com/tonyjustdevs/learning_pkging"
 Issues = "https://github.com/tonyjustdevs/learning_pkging/issues"
