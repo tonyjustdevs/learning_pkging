@@ -3,7 +3,7 @@
 [Tutorial Reference Link](https://packaging.python.org/en/latest/tutorials/packaging-projects/)
 
 # Notes for self:
-- git clone ... && cd ... && 
+- git clone ... && cd ... && create .venv 
 - pip install -e . or pip install -e ".[dev]"
 - python -c "import my_package; print(my_package.__file__)"
 - git commit -am "Prepare release v..."

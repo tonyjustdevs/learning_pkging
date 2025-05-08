@@ -12,3 +12,12 @@ def add_4(number):
 
 def add_5(number):
     return number+5
+
+def add_6(number):
+    return number+6
+
+def add_7(number):
+    return number+7
+
+def add_8(number):
+    return number+8
